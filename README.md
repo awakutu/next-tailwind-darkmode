@@ -23,3 +23,7 @@
 <p align="center">
 <img src="screenshoot/Dark Mode 2.jpg" width="600xpx">
 </p>
+
+## Acknowledgements
+ - [How to create light and dark mode toggle in Next.js with Tailwind](https://medium.com/geekculture/how-to-create-light-and-dark-mode-toggle-in-next-js-with-tailwind-61e67518fd2d)
+ - [Dark Mode in Next.js with Tailwind CSS Typography](https://medium.com/technest/dark-mode-in-next-js-with-tailwind-css-typography-86e547c85a18)
