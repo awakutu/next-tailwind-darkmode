@@ -228,7 +228,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*":
+"@types/node@npm:*, @types/node@npm:^15.12.4":
   version: 15.12.4
   resolution: "@types/node@npm:15.12.4"
   checksum: 64b121a7e805379382aeb3eefed56c4c34f1ebf5e818ba2c732e43beebc4fbde20be438f3eaaffd8dba5062f0e0c9ae085127b7239906d170eda816885a6c508
@@ -2928,6 +2928,7 @@ fsevents@~2.3.1:
   version: 0.0.0-use.local
   resolution: "next-tailwind-darkmode-1@workspace:."
   dependencies:
+    "@types/node": ^15.12.4
     "@types/react": 17.0.11
     eslint: 7.29.0
     eslint-config-next: 11.0.1
